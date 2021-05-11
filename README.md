@@ -1,3 +1,4 @@
 # github.io
 
-read me later ok?
+nothing for now.
+still trying to learn how this works.
